@@ -1,0 +1,1 @@
+export default function Nav(){return (<header className='border-b'><div className='container h-14 flex items-center justify-between'><div className='font-bold'>InfurX</div><nav className='flex gap-4 text-sm'><a href='/'>Pazar</a><a href='/creator'>Kreatör</a><a href='/auth'>Giriş</a></nav></div></header>)}
